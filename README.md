@@ -1,6 +1,8 @@
-# Museum landing page
-- Technologies used: HTML, CSS, SASS, BEM, Javascript
+# NAMU museum landing page
+- Tech stack: HTML, CSS, SASS, BEM, Javascript
 
-- [DEMO LINK](https://aliceblunt8.github.io/Museum/)
+- A fully responsive layout was made by using CSS Grid & Flexbox (mobile, tablet, desktop, large screen)
 
-- [Figma design](https://www.figma.com/file/i8XiqSgs44QEVPHuMbkNO2/museum-prototype) 
+- Click the link to see a [DEMO](https://aliceblunt8.github.io/Museum/)
+
+- Mockup design in [Figma](https://www.figma.com/file/i8XiqSgs44QEVPHuMbkNO2/museum-prototype) 
